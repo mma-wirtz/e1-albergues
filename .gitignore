@@ -1,0 +1,6 @@
+# Credenciales locales
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
